@@ -51,4 +51,4 @@ streamlit run app/streamlit_app.py
 Test Data: https://drive.google.com/file/d/1bO6P6osjURbb8C8IuLukvbINo_3FYckg/view?usp=sharing
 
 ## Tech Stack: 
-Python,cPandas, NumPy, Scikit-learn, PyTorch, XGBoost, Matplotlib, PySpark, Streamlit, Google Colab, Jupyter Notebook, GitHub
+Python, Pandas, NumPy, Scikit-learn,Google Colab, PyTorch, XGBoost, Matplotlib, PySpark, Streamlit 
